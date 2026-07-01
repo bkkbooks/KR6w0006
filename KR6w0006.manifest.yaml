@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6w0006/v1
+canonical_location: https://kanripo.org/bkk/KR6w0006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 式叉摩那尼六法
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D06/D06n8775.xml
+    old_id: D06n8775
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 1, filename: KR6w0006_001.yaml, hash: 'sha256:f69121b709d5538adea9cbd4e1f8d82787464850a79a0f2466f27ecf7717785c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0006_001.markers.yaml, hash: 'sha256:814c053b04beaf0bc45fa7fccb41eaa712008994fe26c1b71e2b38ce9477d2b4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 2283
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 偈讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-2
+    span:
+    - body
+    - 231
+    - 231
+  label: 六法文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-3
+    span:
+    - body
+    - 631
+    - 631
+  label: 具學三法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-4
+    span:
+    - body
+    - 746
+    - 746
+  label: 應學十八法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-5
+    span:
+    - body
+    - 1152
+    - 1152
+  label: 十戒相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0006_D_001-mulu-6
+    span:
+    - body
+    - 1607
+    - 1607
+  label: 八敬法
+  type: mulu
+  level: 1
+hash: sha256:279d38ec59f016f50064c6d32ac89cb049d4b72933f9ea2234568065b5519007
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
