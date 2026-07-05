@@ -18,9 +18,9 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 1, filename: KR6w0006_001.yaml, hash: 'sha256:f69121b709d5538adea9cbd4e1f8d82787464850a79a0f2466f27ecf7717785c'}
+  - {seq: 1, filename: KR6w0006_001.yaml, hash: 'sha256:010cfc087687dbd7369c0bc546e3e6349013e6e9e0ef394e6357ce91cd49e1d8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6w0006_001.markers.yaml, hash: 'sha256:814c053b04beaf0bc45fa7fccb41eaa712008994fe26c1b71e2b38ce9477d2b4'}
+  - {seq: 1, role: markers, filename: assets/KR6w0006_001.markers.yaml, hash: 'sha256:7e41bd9ca0317e692791b7a1e196bfc2bf256b49d0ea7bf8175835968038e99d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -92,7 +92,4 @@ table_of_contents:
   label: 八敬法
   type: mulu
   level: 1
-hash: sha256:279d38ec59f016f50064c6d32ac89cb049d4b72933f9ea2234568065b5519007
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f74955056779b613d012378c8c5bc7bbc864e992c405da7807813ea3fb11d491
