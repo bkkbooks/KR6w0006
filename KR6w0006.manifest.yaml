@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0006/v1
 canonical_location: https://kanripo.org/bkk/KR6w0006/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 式叉摩那尼六法
   source:
@@ -18,9 +18,9 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 1, filename: KR6w0006_001.yaml, hash: 'sha256:010cfc087687dbd7369c0bc546e3e6349013e6e9e0ef394e6357ce91cd49e1d8'}
+  - {seq: 1, filename: KR6w0006_001.yaml, hash: 'sha256:97ce4b0d4e9bccd39426a8b5e450bb1e3eb6e9679f10ae67b6472015bf4fe7ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6w0006_001.markers.yaml, hash: 'sha256:7e41bd9ca0317e692791b7a1e196bfc2bf256b49d0ea7bf8175835968038e99d'}
+  - {seq: 1, role: markers, filename: assets/KR6w0006_001.markers.yaml, hash: 'sha256:f276450a823502a32008e8513f8a268cbbd5542d5030823a5d6494edc7df60a4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -92,4 +92,7 @@ table_of_contents:
   label: 八敬法
   type: mulu
   level: 1
-hash: sha256:f74955056779b613d012378c8c5bc7bbc864e992c405da7807813ea3fb11d491
+hash: sha256:a59ad894f246c333e94e8215dadb18ba63abec25f80c7746b3cecf2f8c2527bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
